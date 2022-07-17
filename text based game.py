@@ -1,5 +1,3 @@
-
-print("Hello world")
 name = input("what is your name   ")
 print ("hi", name)
 adventure = input("do you want to go on a adventure?")
